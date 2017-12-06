@@ -2,3 +2,4 @@
 my stack
 
  - ./graphic/circleAudioVisualizer
+ - ./util/sceneSwicher
